@@ -8,7 +8,7 @@ The article "A Comparison of NoSQL Database Management Systems" highlights the a
 
 These databases prioritize high availability and consistency, meeting the demands of modern systems.
 
-#### ![nosql](https://www.ml4devs.com/images/illustrations/sql-vs-nosql-comparision.webp)
+#### ![nosql](https://expeed.com/wp-content/uploads/2022/11/SQL-Vs-NoSQL-Data-Structures-infographics.jpg)
 
  
 
